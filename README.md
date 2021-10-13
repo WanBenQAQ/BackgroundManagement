@@ -15,5 +15,10 @@ npm run serve
 npm run build
 ```
 
+### Golang execute command
+```
+go run main.go Handler.go
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
